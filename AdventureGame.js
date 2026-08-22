@@ -20,7 +20,7 @@ let currentLocation = "Village";
 let gameRunning = true;
 let inventory = [];
 
-playerName = readline.question("what is your name");
+playerName = readline.question("what is your name? ");
 // Display welcome message and starting stats
 console.log("welcome  ", playerName);
 console.log("Gold is", playerGold);
