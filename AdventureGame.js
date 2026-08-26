@@ -34,3 +34,13 @@ console.log("Weapon Damage: " + weaponDamange);
 
 console.log("When you buy a sword, weapn damange will increase to 10!");
 
+let monsterDefense = 5;
+
+console.log("Monster Defesnse is " + monsterDefense);
+console.log("Monsters can withstand some dmanage in combat!");
+
+let healingPotionValue = 30;
+console.log("HealingPotion is " + healingPotionValue);
+console.log("A potion will restore 30 health!");
+
+
